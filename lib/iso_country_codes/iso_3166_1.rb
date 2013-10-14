@@ -442,7 +442,7 @@ class IsoCountryCodes
     end
     class FSM < Code #:nodoc:
       self.numeric = %q{583}
-      self.name    = %qМикронезия}
+      self.name    = %q{Микронезия}
       self.alpha2  = %q{FM}
       self.alpha3  = %q{FSM}
     end
